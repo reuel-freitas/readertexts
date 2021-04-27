@@ -15,7 +15,7 @@ const humanExpressions = [
     { img: './img/angry.jpg', text: 'Estou com raiva'},
     { img: './img/sad.jpg', text: 'Estou triste'},
     { img: './img/scared.jpg', text: 'Estou assustado'},
-    { img: './img/outside.jpg', text: 'Quero ir lá fora'},
+    { img: './img/outside.jpg', text: 'Quero ir para o quintal'},
     { img: './img/home.jpg', text: 'Quero ir para casa'},
     { img: './img/school.jpg', text: 'Quero ir para a escola'},
     { img: './img/grandma.jpg', text: 'Quero ver a vovó'}

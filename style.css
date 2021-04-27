@@ -114,8 +114,6 @@ main {
   flex-direction: column;
   overflow: hidden;
   transition: box-shadow 0.2s ease-out;
-  text-align: center;
-  font-weight: 600;
 }
 
 .expression-box.active {
